@@ -1,0 +1,13 @@
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\obj\Debug\netcoreapp3.1\AreaofaCircle.csprojAssemblyReference.cache
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\obj\Debug\netcoreapp3.1\AreaofaCircle.AssemblyInfoInputs.cache
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\obj\Debug\netcoreapp3.1\AreaofaCircle.AssemblyInfo.cs
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\obj\Debug\netcoreapp3.1\AreaofaCircle.csproj.CoreCompileInputs.cache
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\bin\Debug\netcoreapp3.1\AreaofaCircle.exe
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\bin\Debug\netcoreapp3.1\AreaofaCircle.deps.json
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\bin\Debug\netcoreapp3.1\AreaofaCircle.runtimeconfig.json
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\bin\Debug\netcoreapp3.1\AreaofaCircle.runtimeconfig.dev.json
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\bin\Debug\netcoreapp3.1\AreaofaCircle.dll
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\bin\Debug\netcoreapp3.1\AreaofaCircle.pdb
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\obj\Debug\netcoreapp3.1\AreaofaCircle.dll
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\obj\Debug\netcoreapp3.1\AreaofaCircle.pdb
+C:\Users\IFEDAYO\Documents\myclass\AreaofaCircle\obj\Debug\netcoreapp3.1\AreaofaCircle.genruntimeconfig.cache

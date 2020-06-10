@@ -1,0 +1,13 @@
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\obj\Debug\netcoreapp3.1\AnotherArea.csprojAssemblyReference.cache
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\obj\Debug\netcoreapp3.1\AnotherArea.AssemblyInfoInputs.cache
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\obj\Debug\netcoreapp3.1\AnotherArea.AssemblyInfo.cs
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\obj\Debug\netcoreapp3.1\AnotherArea.csproj.CoreCompileInputs.cache
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\bin\Debug\netcoreapp3.1\AnotherArea.exe
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\bin\Debug\netcoreapp3.1\AnotherArea.deps.json
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\bin\Debug\netcoreapp3.1\AnotherArea.runtimeconfig.json
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\bin\Debug\netcoreapp3.1\AnotherArea.runtimeconfig.dev.json
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\bin\Debug\netcoreapp3.1\AnotherArea.dll
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\bin\Debug\netcoreapp3.1\AnotherArea.pdb
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\obj\Debug\netcoreapp3.1\AnotherArea.dll
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\obj\Debug\netcoreapp3.1\AnotherArea.pdb
+C:\Users\IFEDAYO\Documents\myclass\AnotherArea\obj\Debug\netcoreapp3.1\AnotherArea.genruntimeconfig.cache
